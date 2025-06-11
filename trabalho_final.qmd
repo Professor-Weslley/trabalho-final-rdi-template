@@ -1,0 +1,42 @@
+---
+title: "Trabalho Final – Recuperação da Informação"
+author: "Nomes do Grupo"
+format: pdf
+number-sections: true
+lang: pt-BR
+---
+
+# 1. Introdução
+
+Descreva os objetivos do trabalho e o contexto das bases utilizadas.
+
+# 2. Coleta e Organização dos Dados
+
+## 2.1 Base State of Data Brazil (2021–2023)
+
+Descreva as edições utilizadas, selecione variáveis comuns, e explique o processo de padronização.
+
+## 2.2 Base via Web Scraping
+
+Explique a escolha do site, a estratégia de coleta, e ferramentas utilizadas.
+
+# 3. Integração das Bases
+
+Explique como as bases foram integradas e justifique a escolha das chaves de junção.
+
+# 4. Modelagem em Recuperação da Informação
+
+Escolha um modelo (Booleano, Vetorial ou BM25) e descreva como foi aplicado aos dados integrados.
+
+# 5. Visualizações e Análise Comparativa
+
+Apresente gráficos e análises comparando as duas fontes.
+
+# 6. Conclusão
+
+Resumo dos principais achados e limitações do trabalho.
+
+# Referências
+
+- Manning et al. (2008)
+- Baeza-Yates & Ribeiro-Neto (2011)
